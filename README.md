@@ -66,7 +66,6 @@ Then, open any `.ipynb` file and run the cells to explore the experiment.
 ## 📜 License
 
 ⚠️ **Note:** This repository currently does **not** include a license.  
-For permissions regarding usage or redistribution, please contact the repository owner.
 
 ---
 
